@@ -8,10 +8,6 @@
 
 ## 📝 Descrição do Projeto
 
-**Mediaview** é um aplicativo mobile desenvolvido com Flutter que reúne informações e novidades sobre o universo de **filmes e jogos**. O app permite que o usuário explore destaques da semana, visualize listas organizadas por categorias e acesse detalhes completos sobre os títulos, incluindo trailers, datas de lançamento e muito mais.
-
-O foco do app é oferecer uma experiência intuitiva, informativa e visualmente atraente, unindo conteúdo multimídia com uma navegação simples e fluida.
-
 ---
 
 ## 📚 Wiki
@@ -30,4 +26,4 @@ O foco do app é oferecer uma experiência intuitiva, informativa e visualmente 
 )
 
 ### 🔗 Link para o Figma:
-[Abrir protótipo no Figma]((https://www.figma.com/design/sRLsPSpRKvDtX9T1rvGGVn/Untitled?node-id=0-1&t=0qVADLskjuOnNIA7-1))
+[Abrir protótipo no Figma](https://www.figma.com/design/sRLsPSpRKvDtX9T1rvGGVn/Untitled?node-id=0-1&t=0qVADLskjuOnNIA7-1)

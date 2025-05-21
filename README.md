@@ -14,7 +14,7 @@
 
 - [🏠 Página Inicial (Home)](https://github.com/hudson12345/App_Jogos/wiki)
 - [🎮 Lista de Jogos](#)
-- [🕹️ Detalhes do Jogo](#)
+- [🕹️ Detalhes do Jogo](https://github.com/hudson12345/App_Jogos/wiki/Descrição)
 
 ---
 

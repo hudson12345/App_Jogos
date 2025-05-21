@@ -13,14 +13,12 @@
 ## 📚 Wiki
 
 - [🏠 Página Inicial (Home)](https://github.com/hudson12345/App_Jogos/wiki)
-- [🎮 Lista de Jogos](#)
+- [🎮 Lista de Jogos](https://github.com/hudson12345/App_Jogos/wiki/Jogos)
 - [🕹️ Detalhes do Jogo](https://github.com/hudson12345/App_Jogos/wiki/Descrição)
 
 ---
 
 ## 🧪 Protótipo no Figma
-
-### 📸 Preview do Figma:
 
 ![Protótipo do Figma](https://github.com/user-attachments/assets/83702585-4dea-4bc1-a3ce-a2b9f1c94f71)
 

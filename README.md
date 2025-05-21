@@ -26,7 +26,8 @@ O foco do app é oferecer uma experiência intuitiva, informativa e visualmente 
 
 ### 📸 Preview do Figma:
 
-![Protótipo do Figma](coloque-o-caminho-da-imagem-aqui-ex.png)
+![Protótipo do Figma](![prototipo](https://github.com/user-attachments/assets/104b39d0-fa3b-4050-937d-a358e63e1298)
+)
 
 ### 🔗 Link para o Figma:
 [Abrir protótipo no Figma](https://www.figma.com/arquivo/EXEMPLO_LINK_DO_PROTO)

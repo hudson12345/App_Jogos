@@ -12,7 +12,7 @@
 
 ## 📚 Wiki
 
-- [🏠 Página Inicial (Home)](#https://github.com/hudson12345/App_Jogos/wiki)
+- [🏠 Página Inicial (Home)](https://github.com/hudson12345/App_Jogos/wiki)
 - [🎮 Lista de Jogos](#)
 - [🕹️ Detalhes do Jogo](#)
 

@@ -30,4 +30,4 @@ O foco do app é oferecer uma experiência intuitiva, informativa e visualmente 
 )
 
 ### 🔗 Link para o Figma:
-[Abrir protótipo no Figma](https://www.figma.com/arquivo/EXEMPLO_LINK_DO_PROTO)
+[Abrir protótipo no Figma]((https://www.figma.com/design/sRLsPSpRKvDtX9T1rvGGVn/Untitled?node-id=0-1&t=0qVADLskjuOnNIA7-1))

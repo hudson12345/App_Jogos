@@ -22,7 +22,7 @@
 
 ### 📸 Preview do Figma:
 
-![Protótipo do Figma](https://github.com/user-attachments/assets/104b39d0-fa3b-4050-937d-a358e63e1298)
+![Protótipo do Figma](https://github.com/user-attachments/assets/83702585-4dea-4bc1-a3ce-a2b9f1c94f71)
 
 
 ### 🔗 Link para o Figma:

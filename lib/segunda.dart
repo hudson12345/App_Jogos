@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 import 'package:flutter_estudo/galeria.dart';
+=======
+>>>>>>> 0de85e683fe1dbdb7b2ae8deb3ef50f2ad9d9251
 import 'package:flutter_estudo/jogos.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -40,6 +43,7 @@ class SegundaPag extends StatelessWidget {
           Divider(height: 20, indent: 20, endIndent: 0, color: Colors.black),
           Text(jogo.sinopse, style: TextStyle(fontSize: 18, color: const Color.fromARGB(255, 145, 10, 166))),
           Divider(height: 20, indent: 20, endIndent: 0, color: Colors.black),
+<<<<<<< HEAD
           Image.asset(jogo.pathimg, width: 330, height: 300,),
           Divider(height: 20, indent: 20, endIndent: 0, color: Colors.black),
           ElevatedButton(
@@ -64,6 +68,14 @@ class SegundaPag extends StatelessWidget {
             ),
             child: const Text('GALERIA!'),
           ),
+=======
+          Image.asset(jogo.pathimg, width: 330, height: 330,),
+          Divider(height: 20, indent: 20, endIndent: 0, color: Colors.black),
+          ElevatedButton(
+            onPressed: launchURL,
+            child: const Text('trailer!'),
+          ),
+>>>>>>> 0de85e683fe1dbdb7b2ae8deb3ef50f2ad9d9251
           ] 
         ),
       )

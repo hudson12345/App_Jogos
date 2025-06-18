@@ -1,4 +1,4 @@
-#  Mediaview
+#  App Jogos
 
 ## 👥 Integrantes
 - Hudson Araujo  
@@ -8,12 +8,14 @@
 
 ##  Descrição do Projeto
 
-**Mediaview** é um aplicativo mobile desenvolvido com Flutter que reúne informações e novidades sobre o universo de **filmes e jogos**.  
+**App Jogos** é um aplicativo mobile desenvolvido com Flutter que mostra informações de **jogos**.  
 O app permite que o usuário:
 
-- Explore os destaques da semana na **aba Home**
-- Acesse a **descrição completa dos jogos**, incluindo trailers, datas de lançamento e sinopse
-- Veja a **galeria de imagens** dos jogos para ter uma prévia visual da experiência
+- Visualize jogos com imagem, nome e desenvolvedor
+- Visualize detalhes do jogo (nome, data, empresa, gênero, descrição, capa)
+- Acesse ao trailer do jogo
+- Galeria de imagens do jogo
+- Navegação entre as telas: Home - Descrição - Galeria
 
 ---
 

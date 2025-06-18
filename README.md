@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# flutter_estudo
-
-A new Flutter project.
-=======
 # 🎬 Mediaview
 
 ## 👥 Integrantes
@@ -13,31 +8,26 @@ A new Flutter project.
 
 ## 📝 Descrição do Projeto
 
-<<<<<<< HEAD
-**Mediaview** é um aplicativo mobile que vai ser desenvolvido com Flutter que reúne informações e novidades sobre o universo de **filmes e jogos**. O app permite que o usuário
-=======
-**Mediaview** é um aplicativo mobile que foi desenvolvido com o Flutter que reúne informações e novidades sobre o universo de jogos. O app permite que o usuário
->>>>>>> 0de85e683fe1dbdb7b2ae8deb3ef50f2ad9d9251
-explore destaques da semana, visualize listas organizadas por categorias e acesse detalhes completos sobre os títulos, incluindo trailers, datas de lançamento e mais detalhes.
+**Mediaview** é um aplicativo mobile desenvolvido com Flutter que reúne informações e novidades sobre o universo de **filmes e jogos**.  
+O app permite que o usuário:
+
+- Explore os destaques da semana na **aba Home**
+- Acesse a **descrição completa dos jogos**, incluindo trailers, datas de lançamento e sinopse
+- Veja a **galeria de imagens** dos jogos para ter uma prévia visual da experiência
 
 ---
 
 ## 📚 Wiki
 
-<<<<<<< HEAD
 - [🏠 Página Inicial (Home)](https://github.com/hudson12345/App_Jogos/wiki)
-=======
->>>>>>> 0de85e683fe1dbdb7b2ae8deb3ef50f2ad9d9251
-- [🎮 Lista de Jogos](https://github.com/hudson12345/App_Jogos/wiki/Jogos)
-- [🕹️ Detalhes do Jogo](https://github.com/hudson12345/App_Jogos/wiki/Descrição)
+- [🕹️ Descrição do Jogo](https://github.com/hudson12345/App_Jogos/wiki/Descrição)
+- [🖼️ Galeria de Imagens](https://github.com/hudson12345/App_Jogos/wiki/Galeria)
 
 ---
 
 ## 🧪 Protótipo no Figma
 
-![Protótipo do Figma](https://drive.google.com/file/d/1ci1Bb7smWYxH06vzh4_jBHbFej7kucBt/view?usp=drive_link)
-
+![Protótipo do Figma](https://drive.google.com/uc?id=1ci1Bb7smWYxH06vzh4_jBHbFej7kucBt)
 
 ### 🔗 Link para o Figma:
 [Abrir protótipo no Figma](https://www.figma.com/design/sRLsPSpRKvDtX9T1rvGGVn/Untitled?node-id=0-1&t=0qVADLskjuOnNIA7-1)
->>>>>>> 161323306bab54ba6a314d28970bd93cf70c170d

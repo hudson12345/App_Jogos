@@ -35,7 +35,7 @@ explore destaques da semana, visualize listas organizadas por categorias e acess
 
 ## 🧪 Protótipo no Figma
 
-![Protótipo do Figma](https://github.com/user-attachments/assets/83702585-4dea-4bc1-a3ce-a2b9f1c94f71)
+![Protótipo do Figma](https://drive.google.com/file/d/1ci1Bb7smWYxH06vzh4_jBHbFej7kucBt/view?usp=sharing)
 
 
 ### 🔗 Link para o Figma:

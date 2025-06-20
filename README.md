@@ -37,7 +37,7 @@ O app permite que o usuário:
 
 
 
-##  Link para o Figma:
+##  Figma:
 [protótipo](https://www.figma.com/design/jaUhy8Nfz77Ir6D8XZoJGC/Untitled?t=zoBzd0cLouL68SsP-1)
 
 ##  Diagrama de Classes:

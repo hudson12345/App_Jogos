@@ -33,7 +33,7 @@ O app permite que o usuário:
 
 ##  Video do App
 
-![vídeo](https://drive.google.com/file/d/1dhVBgcSyyUwhavnri5LHuLaXlQgNqtA3/view?usp=drivesdk)
+.[vídeo](https://drive.google.com/file/d/1dhVBgcSyyUwhavnri5LHuLaXlQgNqtA3/view?usp=drivesdk)
 
 
 

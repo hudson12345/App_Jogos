@@ -38,7 +38,7 @@ O app permite que o usuário:
 
 
 ##  Link para o Figma:
-[Abrir protótipo no Figma](https://www.figma.com/design/jaUhy8Nfz77Ir6D8XZoJGC/Untitled?t=zoBzd0cLouL68SsP-1)
+[protótipo](https://www.figma.com/design/jaUhy8Nfz77Ir6D8XZoJGC/Untitled?t=zoBzd0cLouL68SsP-1)
 
 ##  Diagrama de Classes:
 ![Imagem da Tela](https://drive.google.com/uc?export=view&id=1E5I8eUxRrKB6QGaQnR1_MlOca8IBHGtQ)

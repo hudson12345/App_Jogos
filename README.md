@@ -31,6 +31,12 @@ O app permite que o usuário:
 
 ![Protótipo do Figma](https://drive.google.com/uc?id=1ci1Bb7smWYxH06vzh4_jBHbFej7kucBt)
 
+##  Video do App
+
+![vídeo](https://drive.google.com/file/d/1dhVBgcSyyUwhavnri5LHuLaXlQgNqtA3/view?usp=drivesdk)
+
+
+
 ##  Link para o Figma:
 [Abrir protótipo no Figma](https://www.figma.com/design/jaUhy8Nfz77Ir6D8XZoJGC/Untitled?t=zoBzd0cLouL68SsP-1)
 

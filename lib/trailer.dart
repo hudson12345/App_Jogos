@@ -21,9 +21,7 @@ class _TrailerPagState extends State<TrailerPag>{
 
     _trailer = VideoPlayerController.asset(
       jogo.trailer)..initialize().then((_){
-        _trailer.play();
         setState(() {
-          
         });
       });
   }
@@ -43,7 +41,16 @@ class _TrailerPagState extends State<TrailerPag>{
         Column(
           children: [
             AspectRatio(aspectRatio: _trailer.value.aspectRatio,
-            child: VideoPlayer(_trailer),)
+            child: VideoPlayer(_trailer),),
+
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                ElevatedButton(onPressed: () {_trailer.pause();}, child: const Icon(Icons.pause)),
+                Padding(padding: EdgeInsets.all(3)),
+                ElevatedButton(onPressed: () {_trailer.play();}, child: const Icon(Icons.pause))
+              ],
+            )
           ],
         ) : Container(),
       ),

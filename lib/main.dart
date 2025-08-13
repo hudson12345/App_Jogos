@@ -18,19 +18,12 @@ class MainAPP extends State{
 //lista de jogos
 
  List<Jogo> jogo = [
-<<<<<<< HEAD
 
    Jogo('Sonic', DateTime(1991,23,06), 'Sega', 'Plataforma', 'Sonic precisa salvar os animais inocentes do Dr Eggman', 'img/Sonic_the_Hedgehog_1991_capa.png', 'videos/Sonic_trailer.mp4', ['img/sonic_gameplay.jpg', 'img/sonic_gameplay2.webp', 'img/sonic_gameplay3.webp']),
    Jogo('Scott Pilgrim', DateTime(2010,10,08), 'Ubisoft', 'Beat em up', 'Scott enfrenta os 7 exs malvados para ficar com Ramona', 'img/scott_pilgrim.webp', 'videos/Scott_trailer.mp4', ['img/scott_gameplay.jpg','img/scott_gameplay2.jpg','img/scott_gameplay3.jpg']),
    Jogo('Lego', DateTime(2014,506,06), 'Warner Bros. Games e Feral Interactive', 'Plataforma e Construção', 'Uma aventura no universo lego', 'img/lego.jpg', 'videos/Lego_trailer.mp4', ['img/lego_gameplay.jpg', 'img/lego_gameplay2.jpg', 'img/lego_gameplay3.jpg']),
    Jogo('Kung Fu Panda', DateTime(2008,04,06), 'luvoflux e DreamWorks', 'Luta', 'Po se torna o dração guerreiro e precisa derrotar Tai lung', 'img/Kung-Fu-Panda.webp', 'videos/Kung_fu_trailer.mp4', ['img/po_gameplay.jpg', 'img/po_gameplay2.jpg', 'img/po_gameplay3.webp']),
 
-=======
-   Jogo('Sonic', DateTime(1991,23,06), 'Sega', 'Plataforma', 'Sonic precisa salvar os animais inocentes do Dr Eggman', 'img/Sonic_the_Hedgehog_1991_capa.png', 'https://youtu.be/kCaAos6FeV0?si=DEdTjUisXxb4IhYj', ['img/sonic_gameplay.jpg', 'img/sonic_gameplay2.webp', 'img/sonic_gameplay3.webp']),
-   Jogo('Scott Pilgrim', DateTime(2010,10,08), 'Ubisoft', 'Beat em up', 'Scott enfrenta os 7 exs malvados para ficar com Ramona', 'img/scott_pilgrim.webp', 'https://youtu.be/wUU_wRjdi2I?si=i8awJW7ZoGlT88n5', ['img/scott_gameplay.jpg','img/scott_gameplay2.jpg','img/scott_gameplay3.jpg']),
-   Jogo('Lego', DateTime(2014,506,06), 'Warner Bros. Games e Feral Interactive', 'Plataforma e Construção', 'Uma aventura no universo lego', 'img/lego.jpg', 'https://youtu.be/hEO0YJ2mzFs?si=CAZpVkC1oDjgTu-C', ['img/lego_gameplay.jpg', 'img/lego_gameplay2.jpg', 'img/lego_gameplay3.jpg']),
-   Jogo('Kung Fu Panda', DateTime(2008,04,06), 'luvoflux e DreamWorks', 'Luta', 'Po se torna o dração guerreiro e precisa derrotar Tai lung', 'img/Kung-Fu-Panda.webp', 'https://youtu.be/OpbCWHVUHpU?si=tXPSiUaLjOKlI3ez', ['img/po_gameplay.jpg', 'img/po_gameplay2.jpg', 'img/po_gameplay3.webp']),
->>>>>>> edc411651f6ce3563f18fb66715d001e9e81384d
  ];
 
   @override  
